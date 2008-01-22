@@ -9,7 +9,7 @@ Summary:	MP4::Info - Fetch info from MPEG-4 files (.mp4, .m4a, .m4p, .3gp)
 #Summary(pl.UTF-8):	
 Name:		perl-MP4-Info
 Version:	1.12
-Release:	0.1
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
